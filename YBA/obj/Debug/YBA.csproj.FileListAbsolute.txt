@@ -1,0 +1,11 @@
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\YBA.dll.config
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\YBA.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\YBA.pdb
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\EntityFramework.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\EntityFramework.xml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\obj\Debug\YBA.csprojResolveAssemblyReference.cache
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\obj\Debug\YBA.csproj.CoreCompileInputs.cache
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\obj\Debug\YBA.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\YBA\obj\Debug\YBA.pdb

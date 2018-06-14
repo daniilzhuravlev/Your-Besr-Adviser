@@ -1,0 +1,19 @@
+﻿<Window x:Name="MainMenu" x:Class="Your_Besr_Adviser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Your_Besr_Adviser"
+        mc:Ignorable="d"
+        Title="Your Best Adviser" Height="350" Width="525" WindowStartupLocation="CenterScreen"  ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="178*"/>
+            <ColumnDefinition Width="339*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="OrShouldIStay_" Content="Идти ли мне на пару?" HorizontalAlignment="Left" Height="27" Margin="9.333,131,0,0" VerticalAlignment="Top" Width="144" Click="OrShouldIStay__Click" Grid.Column="1"/>
+        <Button x:Name="INLibrary" Content="Библиотека" HorizontalAlignment="Left" Height="27" Margin="9.333,185,0,0" VerticalAlignment="Top" Width="144" Click="Button_Click_1" Grid.Column="1"/>
+        <Button x:Name="Exit" Content="Выход" HorizontalAlignment="Left" Height="27" Margin="9.333,239,0,0" VerticalAlignment="Top" Width="144" Click="Button_Click" Grid.Column="1"/>
+
+    </Grid>
+</Window>

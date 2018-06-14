@@ -1,0 +1,20 @@
+﻿<Window x:Class="Your_Besr_Adviser.AddObject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Your_Besr_Adviser"
+        mc:Ignorable="d"
+        Title="AddObject" Height="300" Width="301.752">
+    <Grid>
+        <Button Content="Назад" Margin="112,234,112,10" Click="Button_Click"/>
+        <Button x:Name="AddSub" Content="Добавить" Height="31" Margin="88,188,88,0" VerticalAlignment="Top" Click="AddS"/>
+        <Label Content="Название предмета:" HorizontalAlignment="Left" Height="25" Margin="10,4,0,0" VerticalAlignment="Top" Width="122"/>
+        <TextBox x:Name="NameObject" HorizontalAlignment="Left" Height="23" Margin="84,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Ваша нынешняя (целая) накопительная оценка:" HorizontalAlignment="Left" Height="25" Margin="10,52,0,0" VerticalAlignment="Top" Width="284"/>
+        <TextBox x:Name="Nakop" HorizontalAlignment="Left" Height="23" Margin="84,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" TextChanged="TextBox_TextChanged"/>
+        <Label Content="Ожидаемая (целая) оценка на экзамене:" HorizontalAlignment="Left" Height="25" Margin="10,100,0,0" VerticalAlignment="Top" Width="284"/>
+        <TextBox x:Name="Ekz" HorizontalAlignment="Left" Height="23" Margin="84,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" TextChanged="TextBox_TextChanged"/>
+
+    </Grid>
+</Window>

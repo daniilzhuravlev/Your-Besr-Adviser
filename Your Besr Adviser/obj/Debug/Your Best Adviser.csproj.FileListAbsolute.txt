@@ -1,0 +1,30 @@
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\Your Besr Adviser.exe.config
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\Your Besr Adviser.exe
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\Your Besr Adviser.pdb
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\EntityFramework.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\EntityFramework.xml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Best Adviser.csprojResolveAssemblyReference.cache
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Determing.g.cs
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Library.g.cs
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\MainWindow.g.cs
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\App.g.cs
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Besr Adviser_MarkupCompile.cache
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Besr Adviser_MarkupCompile.lref
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Determing.baml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Library.baml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\MainWindow.baml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Besr Adviser.g.resources
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your_Besr_Adviser.Properties.Resources.resources
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Best Adviser.csproj.GenerateResource.Cache
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Best Adviser.csproj.CoreCompileInputs.cache
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Besr Adviser.exe
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\Your Besr Adviser.pdb
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\YBA.dll
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\YBA.pdb
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\bin\Debug\YBA.dll.config
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\AddObject.g.cs
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\AddTeacher.g.cs
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\AddObject.baml
+C:\Users\Leynad_Z\source\repos\Your Besr Adviser\Your Besr Adviser\obj\Debug\AddTeacher.baml
